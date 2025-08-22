@@ -15,6 +15,6 @@ This approach makes it possible to identify which categories were the main drive
 An interactive Power BI report can be viewed [here](https://app.powerbi.com/view?r=eyJrIjoiNGJiOGYwZTEtMTYwYi00MjZhLTllYWQtNWJiZDVmNWQ4NTBhIiwidCI6IjJmNzE5YzAyLTc1ZmQtNDNiOC1iYzYxLTI4ZTUyYjE4YzQ4YiIsImMiOjl9)  
 
 Overview and my more detailed explanation of functions, queries, and transformation I did in Power BI, SQL and Python can be viewed [here]
-The SQL queries that I implemented to establish a working category hierarchy for my data model is [here](analysis_portfolio/project-resources/inflationAT/contributionhierarchy.sql)
+The SQL queries that I implemented to establish a working category hierarchy for my data model is [here](analysis_portfolio/project-resources/inflationAT/contributionhierarchy.sql).  
 The Python(mostly pandas) aggregations and data transformations functions that I used is [here](analysis_portfolio/projectresources/inflationAT/datatransform-pandas.py)
 
