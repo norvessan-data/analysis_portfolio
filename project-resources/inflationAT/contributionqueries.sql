@@ -19,6 +19,7 @@ AS
 	) up
 ),
 --Sum up the values of the consecutive rank in hierarchy
+--L2
 second_sum
 AS
 (
@@ -28,6 +29,7 @@ AS
 	GROUP BY LEFT(Coicop, 4), Year
 
 ),
+--L3
 third_sum
 AS
 (
@@ -36,6 +38,7 @@ AS
 	WHERE LEN(Coicop) = 6
 	GROUP BY LEFT(Coicop, 5), Year
 ),
+--L4
 fourth_sum
 AS
 (
@@ -44,7 +47,7 @@ AS
 	WHERE LEN(Coicop) = 7
 	GROUP BY LEFT(Coicop, 6), Year
 ),
---Calculate the difference between the initial parent and the sum of its children to fill up the difference as "Other" subcategory 
+--Calculate the difference between the initial parent value and the sum of its children values to fill up the difference as "Other" subcategory 
 differences
 AS
 (
