@@ -9,6 +9,8 @@ Insights are provided in the following key areas:
 
 - Overall HICP Dynamics: Examination of the Harmonised Index of Consumer Prices (HICP) with a focus on year-over-year (YoY) changes. 
 Particular attention is given to periods of sharp increases in the index to highlight inflationary spikes over time.
-
 - Category-Level Inflation and Contributions: Detailed analysis of individual goods categories, combining their YoY price index changes with weighted contributions to overall inflation. 
 This approach makes it possible to identify which categories were the main drivers of inflation and, consequently, which groups of people are most likely to be affected during the period.
+
+An interactive Power BI report can be viewed [here](https://app.powerbi.com/view?r=eyJrIjoiNGJiOGYwZTEtMTYwYi00MjZhLTllYWQtNWJiZDVmNWQ4NTBhIiwidCI6IjJmNzE5YzAyLTc1ZmQtNDNiOC1iYzYxLTI4ZTUyYjE4YzQ4YiIsImMiOjl9)
+The SQL queries that I implemented to establish a working category hierarchy for my data model is [here](analysis_portfolio/project-resources/inflationAT/contributionqueries.sql)
