@@ -10,5 +10,5 @@ Insights are provided in the following key areas:
 - Overall HICP Dynamics: Examination of the Harmonised Index of Consumer Prices (HICP) with a focus on year-over-year (YoY) changes. 
 Particular attention is given to periods of sharp increases in the index to highlight inflationary spikes over time.
 
-- Category-Level Inflation and Contributions: Detailed analysis of individual goods categories, combining their YoY price changes with weighted contributions to overall inflation. 
-This approach makes it possible to identify which categories were the main drivers of inflation and, consequently, which groups of people were most affected during the period.
+- Category-Level Inflation and Contributions: Detailed analysis of individual goods categories, combining their YoY price index changes with weighted contributions to overall inflation. 
+This approach makes it possible to identify which categories were the main drivers of inflation and, consequently, which groups of people are most likely to be affected during the period.
