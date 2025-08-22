@@ -16,7 +16,7 @@ An interactive Power BI report can be viewed [here](https://app.powerbi.com/view
 
 Overview and my more detailed explanation of functions, queries, and transformation I did in Power BI, SQL and Python can be viewed [here]  
 
-The SQL queries that I implemented to establish a working category hierarchy for my data model is [here](analysis_portfolio/project-resources/inflationAT/contributionhierarchy.sql).  
-The Python(mostly pandas) aggregations and data transformations functions that I used is [here](analysis_portfolio/projectresources/inflationAT/datatransform-pandas.py).  
+The SQL queries that I implemented to establish a working category hierarchy for my data model is [here](projectresources/inflationAT/contributionhierarchy.sql).  
+The Python(mostly pandas) aggregations and data transformations functions that I used is [here](projectresources/inflationAT/datatransform-pandas.py).  
 
 
