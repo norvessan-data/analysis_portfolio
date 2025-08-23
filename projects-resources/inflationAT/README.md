@@ -7,7 +7,7 @@ I will also specify some DAX functions that I used in the process of data visual
     
 - SQL: SQL was used as the main tool of data cleaning and preparation for contribution table's hierarchies. The contribution table had two problems:
   1. It had years as columns, which was inefficient for further data modeling process and preparation of the visualisations. The problem was solved by using unpivot function in SQL.
-  2. The main problem: the retrived dataset itself had a structure of hierarchies, with major category(Sector) as a main one, and up to 3 more subcategy levels down the hierarchy.
+  2. The main problem: the retrived dataset itself had a structure of hierarchies, with major category(Sector) as a main one, and up to 3 more subcategory levels down the hierarchy.
   As the parents had their own values, which basically represented all the children values summed up, it introduced doublecounting when summarizing in a tool like Power BI.
   Not all parents had the full list of included categories as some of them were too subtle to bother, I decided
   to start by creating a new category "Other", where the difference between a parent value and children summed up was somewhat significant, to minimize the error.
