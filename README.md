@@ -43,7 +43,7 @@ Below is main page from the Power BI report that includes summary over the 2022-
 The images provide a visual understanding of the discovered trends. You can view the whole report [here](https://app.powerbi.com/view?r=eyJrIjoiNGJiOGYwZTEtMTYwYi00MjZhLTllYWQtNWJiZDVmNWQ4NTBhIiwidCI6IjJmNzE5YzAyLTc1ZmQtNDNiOC1iYzYxLTI4ZTUyYjE4YzQ4YiIsImMiOjl9).
 <img width="370" height="200" alt="image" src="https://github.com/user-attachments/assets/7382e7f5-d41b-49c6-a23c-2ceb5660a023" />
 <img width="370" height="200" alt="image" src="https://github.com/user-attachments/assets/79fd6d75-b9f2-4a3f-a864-a3ce44608703" />
-<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/542d2ae4-d0b0-4c65-8417-8b446aef964a" />
+<img width="370" height="200" alt="image" src="https://github.com/user-attachments/assets/542d2ae4-d0b0-4c65-8417-8b446aef964a" />
 
 ## Conclusion
 - Overall, the inflation spikes caused by 2022 crisis showed only limited recovery, with only a few categories even showing a price decrease, raising concerns that prices may not flatten out in the long-term.
