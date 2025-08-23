@@ -46,7 +46,7 @@ The images provide a visual understanding of the discovered trends. You can view
 <img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/542d2ae4-d0b0-4c65-8417-8b446aef964a" />
 
 ## Conclusion
-- Overall, the inflation spikes caused by 2022 crisis showed only limited recovery, with only a few categories even showing a price decrease, raising concerns that prices may not flatten out.
+- Overall, the inflation spikes caused by 2022 crisis showed only limited recovery, with only a few categories even showing a price decrease, raising concerns that prices may not flatten out in the long-term.
 - The analysis highlighted that regular households were especially vulnerable to price fluctuations, as essential goods purchased daily were among the most highly inflated categories. 
 - However, despite seemingly long-term prices increase, the inflation seems to be stabilized over most of the categories, at least.  
 
