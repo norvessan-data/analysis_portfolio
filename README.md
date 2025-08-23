@@ -21,43 +21,8 @@ The SQL queries that I implemented to establish a working category hierarchy for
 The Python(mostly pandas) aggregations and data transformations functions that I used is [here](projectresources/inflationAT/datatransform-pandas.py).  
 
 
-## Data structure
-erDiagram
-    ORDERS {
-      string   customer_id
-      string   id
-      date     purchase_ts
-      string   product_id
-      string   product_name
-      string   currency
-      float    local_price
-      float    usd_price
-      string   purchase_platform
-    }
-
-    CUSTOMERS {
-      string   id
-      string   marketing_channel
-      string   account_creation_method
-      string   country_code
-      int      loyalty_program
-      date     created_on
-    }
-
-    ORDER_STATUS {
-      string   order_id
-      date     purchase_ts
-      date     ship_ts
-      date     delivery_ts
-      date     refund_ts
-    }
-
-    GEO_LOOKUP {
-      string   country
-      string   region
-    }
-
-    %% Relationships
-    CUSTOMERS ||--o{ ORDERS : "id → customer_id"
-    ORDERS    ||--o{ ORDER_STATUS : "id → order_id"
-    GEO_LOOKUP ||--o{ CUSTOMERS : "country → country_code"
+<img width="466" height="355" alt="image_2025-08-23_03-34-07" src="https://github.com/user-attachments/assets/564eea09-9f9e-4618-9eff-7b397628f8c6" />
+<img width="463" height="354" alt="image_2025-08-23_03-34-07 (2)" src="https://github.com/user-attachments/assets/c42aec84-8665-4d31-8e93-eaeeef0ff7fc" />
+<img width="469" height="357" alt="image_2025-08-23_03-34-07 (3)" src="https://github.com/user-attachments/assets/6a8f32d6-1c2f-469d-8b2e-aca570cea43e" />
+<img width="439" height="402" alt="image_2025-08-23_03-34-07 (4)" src="https://github.com/user-attachments/assets/bec54be2-f6da-4188-8158-882574ea7915" />
+<img width="460" height="354" alt="image_2025-08-23_03-34-07 (5)" src="https://github.com/user-attachments/assets/59e7dfef-3243-46fc-ba57-008e9b663ab1" />
