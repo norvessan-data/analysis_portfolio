@@ -26,3 +26,4 @@ The Python(mostly pandas) aggregations and data transformations functions that I
 <img width="250" height="300" alt="image_2025-08-23_03-34-07 (3)" src="https://github.com/user-attachments/assets/6a8f32d6-1c2f-469d-8b2e-aca570cea43e" />
 <img width="250" height="300" alt="image_2025-08-23_03-34-07 (4)" src="https://github.com/user-attachments/assets/bec54be2-f6da-4188-8158-882574ea7915" />
 <img width="250" height="300" alt="image_2025-08-23_03-34-07 (5)" src="https://github.com/user-attachments/assets/59e7dfef-3243-46fc-ba57-008e9b663ab1" />
+<img width="200" height="250" alt="image_2025-08-23_03-34-58" src="https://github.com/user-attachments/assets/99a78608-5481-4740-a7ef-3f09fb341f1b" />
