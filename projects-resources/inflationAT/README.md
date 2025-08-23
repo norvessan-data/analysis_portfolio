@@ -9,7 +9,7 @@ I will also specify some DAX functions that I used in the process of data visual
   1. It had years as columns, which was inefficient for further data modeling process and preparation of the visualisations. The problem was solved by using unpivot function in SQL.
   2. The main problem: the retrived dataset itself had a structure of hierarchies, with major category(Sector) as a main one, and up to 3 more subcategory levels down the hierarchy.
   As the parents had their own values, which basically represented all the children values summed up, it introduced doublecounting when summarizing in a tool like Power BI.
-  Not all parents had the full list of included categories as some of them were too subtle to bother, I decided
+  Not all parents had the full list of included children as some of them were too subtle to bother, I decided
   to start by creating a new category "Other", where the difference between a parent value and children summed up was somewhat significant, to minimize the error.
   I summed up all the children values in the corresponding levels of hierarchies for each parent, followed by subtracting the sums from parents values, and putting it in "Other" category.
   If the difference was too subtle, i.e. less than 0.02%, I ignored the value. Finally, I assigned the parents' values to 0 and the contribution table was prepared.
