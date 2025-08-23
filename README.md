@@ -12,9 +12,15 @@ Insights are provided in the following key areas:
 Particular attention is given to periods of sharp increases in the index to highlight inflationary spikes over time.
 - Category-Level Inflation and Contributions: Detailed analysis of individual goods categories, combining their YoY price index changes with weighted contributions to overall inflation. 
 This approach makes it possible to identify which categories were the main drivers of inflation and, consequently, which groups of people are most likely to be affected during the period.
-
+  
+  
 An interactive Power BI report can be viewed [here]([https://app.powerbi.com/view?r=eyJrIjoiNGJiOGYwZTEtMTYwYi00MjZhLTllYWQtNWJiZDVmNWQ4NTBhIiwidCI6IjJmNzE5YzAyLTc1ZmQtNDNiOC1iYzYxLTI4ZTUyYjE4YzQ4YiIsImMiOjl9](https://app.powerbi.com/view?r=eyJrIjoiNGJiOGYwZTEtMTYwYi00MjZhLTllYWQtNWJiZDVmNWQ4NTBhIiwidCI6IjJmNzE5YzAyLTc1ZmQtNDNiOC1iYzYxLTI4ZTUyYjE4YzQ4YiIsImMiOjl9))  
-
+  
+## Tools used
+- SQL: Category hierarchy modeling + measure table queries.
+- Python(pandas): Aggegations and data transformations.
+- Power BI and DAX: Interactive reports for inflation trends, multiple measures and field parameters using DAX.
+   
 Overview and a more detailed explanation of used functions, queries, and transformations I did in Power BI, SQL and Python can be viewed [here](projects-resources/inflationAT).  
 
 The SQL queries that I implemented to establish a working category hierarchy for my data model is [here](projects-resources/inflationAT/contributionhierarchy.sql).  
