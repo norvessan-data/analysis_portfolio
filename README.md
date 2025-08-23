@@ -49,7 +49,16 @@ The images provide a visual understanding of the discovered trends. You can view
 ## Conclusion
 - Overall, the inflation spikes caused by 2022 crisis showed only limited recovery, with only a few categories even showing a price decrease, raising concerns that prices may not flatten out in the long-term.
 - The analysis highlighted that regular households were especially vulnerable to price fluctuations, as essential goods purchased daily were among the most highly inflated categories. 
-- However, despite seemingly long-term prices increase, the inflation seems to be stabilized over most of the categories, at least.  
+- However, despite seemingly long-term prices increase, the inflation seems to be stabilized over most of the categories, at least.
+- The analysis revealed that Austria experienced a period of stable and low inflation between 2016–2021, even through the COVID-19 pandemic. However, the war in Ukraine and the energy crisis triggered a sharp inflation spike in 2022, which persisted into 2023 before easing in 2024.
+
+- Essential categories such as food, housing, and transport were the primary drivers of inflation, accounting for the largest share of the increase. This indicates that regular households suffered the strongest burden, as these goods and services are unavoidable daily expenses.
+
+- While some categories, particularly energy (gas, heat, and fuels), showed partial price declines in 2024, most essential goods did not revert to pre-crisis levels. Instead, they remained elevated, suggesting that the crisis has led to a structural increase in living costs.
+
+- The limited recovery raises concerns that inflationary pressures may not fully flatten in the long term. Even with overall inflation easing in 2024, household vulnerability remains high, particularly among lower-income groups who spend more on essentials.
+
+- Overall, the findings highlight the importance of policy interventions (e.g., targeted subsidies, energy relief, or food price stabilization measures) to protect households from lasting effects of inflation shocks.
 
    
 
