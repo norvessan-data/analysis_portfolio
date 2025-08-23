@@ -21,9 +21,5 @@ The SQL queries that I implemented to establish a working category hierarchy for
 The Python(mostly pandas) aggregations and data transformations functions that I used is [here](projectresources/inflationAT/datatransform-pandas.py).  
 
 
-<img width="250" height="300" alt="image_2025-08-23_03-34-07" src="https://github.com/user-attachments/assets/564eea09-9f9e-4618-9eff-7b397628f8c6" />
-<img width="250" height="300" alt="image_2025-08-23_03-34-07 (2)" src="https://github.com/user-attachments/assets/c42aec84-8665-4d31-8e93-eaeeef0ff7fc" />
-<img width="250" height="300" alt="image_2025-08-23_03-34-07 (3)" src="https://github.com/user-attachments/assets/6a8f32d6-1c2f-469d-8b2e-aca570cea43e" />
-<img width="250" height="300" alt="image_2025-08-23_03-34-07 (4)" src="https://github.com/user-attachments/assets/bec54be2-f6da-4188-8158-882574ea7915" />
-<img width="250" height="300" alt="image_2025-08-23_03-34-07 (5)" src="https://github.com/user-attachments/assets/59e7dfef-3243-46fc-ba57-008e9b663ab1" />
-<img width="200" height="250" alt="image_2025-08-23_03-34-58" src="https://github.com/user-attachments/assets/99a78608-5481-4740-a7ef-3f09fb341f1b" />
+<img width="509" height="300" alt="image" src="https://github.com/user-attachments/assets/69713067-6566-4c3e-b9a1-41d92c8f2c91" />
+
