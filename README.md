@@ -17,8 +17,8 @@ An interactive Power BI report can be viewed [here]([https://app.powerbi.com/vie
 
 Overview and a more detailed explanation of used functions, queries, and transformations I did in Power BI, SQL and Python can be viewed [here](projects-resources/inflationAT).  
 
-The SQL queries that I implemented to establish a working category hierarchy for my data model is [here](projectresources/inflationAT/contributionhierarchy.sql).  
-The Python(mostly pandas) aggregations and data transformations functions that I used is [here](projectresources/inflationAT/datatransform-pandas.py).  
+The SQL queries that I implemented to establish a working category hierarchy for my data model is [here](projects-resources/inflationAT/contributionhierarchy.sql).  
+The Python(mostly pandas) aggregations and data transformations functions that I used is [here](projects-resources/inflationAT/data_transformpandas.py).  
 
 ## Data structure
 The measure tables include the corresponding value for each category of each year. I decided to have them in each table, despite having the same structure, because 
