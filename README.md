@@ -31,7 +31,8 @@ the inflation skyrocketed in 2022, obviously caused by the war in Ukraine, up to
 The following section will explore which categories of goods and services were affected the most and whether any major category saw a decline in prices in 2024.
 
 Below is main page from the Power BI report that includes summary over the 2022-2024 years. The standout of Food, Housing, Restaraunts and Transport categories can already be noticed. This will be explored further, as well as functionality examples will be included further in the section.  
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/3121415a-fa28-4512-9f89-405009738498" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/4f4558b5-cf85-4891-b972-0aaf3a11bad6" />
+
 
 
 ## Discovered trends
