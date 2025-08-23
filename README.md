@@ -22,7 +22,7 @@ The Python(mostly pandas) aggregations and data transformations functions that I
 
 
 <img width="250" height="300" alt="image_2025-08-23_03-34-07" src="https://github.com/user-attachments/assets/564eea09-9f9e-4618-9eff-7b397628f8c6" />
-<img width="463" height="354" alt="image_2025-08-23_03-34-07 (2)" src="https://github.com/user-attachments/assets/c42aec84-8665-4d31-8e93-eaeeef0ff7fc" />
-<img width="469" height="357" alt="image_2025-08-23_03-34-07 (3)" src="https://github.com/user-attachments/assets/6a8f32d6-1c2f-469d-8b2e-aca570cea43e" />
-<img width="439" height="402" alt="image_2025-08-23_03-34-07 (4)" src="https://github.com/user-attachments/assets/bec54be2-f6da-4188-8158-882574ea7915" />
-<img width="460" height="354" alt="image_2025-08-23_03-34-07 (5)" src="https://github.com/user-attachments/assets/59e7dfef-3243-46fc-ba57-008e9b663ab1" />
+<img width="250" height="300" alt="image_2025-08-23_03-34-07 (2)" src="https://github.com/user-attachments/assets/c42aec84-8665-4d31-8e93-eaeeef0ff7fc" />
+<img width="250" height="300" alt="image_2025-08-23_03-34-07 (3)" src="https://github.com/user-attachments/assets/6a8f32d6-1c2f-469d-8b2e-aca570cea43e" />
+<img width="250" height="300" alt="image_2025-08-23_03-34-07 (4)" src="https://github.com/user-attachments/assets/bec54be2-f6da-4188-8158-882574ea7915" />
+<img width="250" height="300" alt="image_2025-08-23_03-34-07 (5)" src="https://github.com/user-attachments/assets/59e7dfef-3243-46fc-ba57-008e9b663ab1" />
