@@ -1,4 +1,4 @@
-<img width="1705" height="926" alt="image" src="https://github.com/user-attachments/assets/42264997-6d44-4d7e-9468-c82319cdcd09" /><img width="1652" height="434" alt="image" src="https://github.com/user-attachments/assets/f15f1679-7d7e-4ee7-b8ef-1f97200250b3" />
+
 # Project 1: Austria Inflation Analysis
 
 ## Project background
