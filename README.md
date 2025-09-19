@@ -121,4 +121,9 @@ Main overview page can be viewed below. Alternatively, view the whole report [he
 ## Conclusion
 - Company showed excellent revenue across pretty much the whole 2017-2018 period, rapidly revealing its massive potential.
 - Despite the overall growth, MoM values show concerning stagnation, slightly declining over the 2018 period in number of orders and revenue. As most lucrative months(October, November) are still ahead however, it's too early to make a conclusion of risk of complete decline. Overall, 2018 showed amazing revenue and orders, being ahead of 2017 even without 3 months of data.
-- Regional revenue, unlike categories revenue, is very undiversified. While pretty much expected, it is worth paying more attention to the regions besides São Paulo. Rio da Janeiro, for instance, performs badly on delivery metrics, investing in improving these might scale up the numbers for the region.
+
+- **Product category** diversification is solid, with top categories (Health Beauty, Watches Gifts, Bed Bath Table) driving most of the revenue. However, reliance on a few top performers poses concentration risk. Further development of mid-tier categories could smooth out fluctuations and reduce exposure.
+
+- **Regional Imbalance**: Regional revenue is heavily concentrated in São Paulo, which accounts for ~40% of total revenue. While São Paulo is efficient in delivery, underperformance in Rio de Janeiro, for instance, highlights the need for operational improvements outside the core market. Strengthening logistics and customer experience in weaker regions could unlock significant additional growth.
+
+- **Customer Metrics**: Customer and seller counts show steady growth, but the declining quarter-on-quarter customer count trend is concerning. Investment in retention strategies may be needed to maintain long-term growth.
