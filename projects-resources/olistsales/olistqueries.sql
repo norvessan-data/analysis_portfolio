@@ -1,0 +1,1 @@
+-- In this file, SQL queries performed for data preparation on olist sales dataset will be loaded 
