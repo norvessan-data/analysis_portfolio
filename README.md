@@ -10,7 +10,7 @@ Insight are provided in key following areas:
 - Product Categories Breakdown: Analyzing most profitable/underperforming categories, revealing major impacts on MoM sales by different categories in Net Revenue Change.
 - Regional Analysis: Comparison of Brazil states' performance in sales.
 
-Power BI report can be viewed [here]([https://app.powerbi.com/reportEmbed?reportId=7629a19a-8df4-4f5d-b5c3-93e62302bc34&autoAuth=true&ctid=2f719c02-75fd-43b8-bc61-28e52b18c48b](https://app.powerbi.com/view?r=eyJrIjoiZGUyNGJhZjktZTU2Mi00YjEwLTkzZTAtZDU2OWY3NDhiZDhjIiwidCI6IjJmNzE5YzAyLTc1ZmQtNDNiOC1iYzYxLTI4ZTUyYjE4YzQ4YiIsImMiOjl9))
+Power BI report can be viewed [here](https://app.powerbi.com/view?r=eyJrIjoiZGUyNGJhZjktZTU2Mi00YjEwLTkzZTAtZDU2OWY3NDhiZDhjIiwidCI6IjJmNzE5YzAyLTc1ZmQtNDNiOC1iYzYxLTI4ZTUyYjE4YzQ4YiIsImMiOjl9)
 
 ## Tools used 
 
@@ -29,7 +29,7 @@ The semantic model involves following structure with a total row count of 112650
 
 After the development stage of refinment the platform and raising funds in 2016, the popularity of the platform boomed for both sellers and customers in early 2017, which led to a continuously increasing revenue and order count, which the platform was able to keep up until August-September 2018, the end of the observation period, showing +20% YoY in Revenue, +21.5% in Order Volume from the whole of 2017 just over the 9 months period. Despite the initial success however, the dynamics in late 2018 show alerting stagnation, which may require active engagement in order for high numbers to preserve. Providing insights in that regard will be the main goal of the analysis.
 
-Main overview page can be viewed below. Alternatively, view the whole report [here]([https://app.powerbi.com/reportEmbed?reportId=7629a19a-8df4-4f5d-b5c3-93e62302bc34&autoAuth=true&ctid=2f719c02-75fd-43b8-bc61-28e52b18c48b](https://app.powerbi.com/view?r=eyJrIjoiZGUyNGJhZjktZTU2Mi00YjEwLTkzZTAtZDU2OWY3NDhiZDhjIiwidCI6IjJmNzE5YzAyLTc1ZmQtNDNiOC1iYzYxLTI4ZTUyYjE4YzQ4YiIsImMiOjl9)).
+Main overview page can be viewed below. Alternatively, view the whole report [here](https://app.powerbi.com/view?r=eyJrIjoiZGUyNGJhZjktZTU2Mi00YjEwLTkzZTAtZDU2OWY3NDhiZDhjIiwidCI6IjJmNzE5YzAyLTc1ZmQtNDNiOC1iYzYxLTI4ZTUyYjE4YzQ4YiIsImMiOjl9).
 <img width="551" height="300" alt="image" src="https://github.com/user-attachments/assets/7e6a88cd-adde-4ce8-a421-1f3d0ad86600" />
 
 ## Discovered trends
