@@ -84,7 +84,7 @@ Power BI report can be viewed [here](https://app.powerbi.com/reportEmbed?reportI
 - Power Query and DAX: Data modeling, advanced queries in M language and multiple measures/calculated columns were completed in order to establish a reliable and convenient semantic model.
 - Power BI: Visualizations
   
-A more detailed overview and explanation of data modeling(SQL queries used, some measures described etc) process can be viewed [here](project-resources/olistsales)
+A more detailed overview and explanation of data modeling(SQL queries used, some measures described etc) process can be viewed [here](projects-resources/olistsales)
 
 ## Data structure
 
